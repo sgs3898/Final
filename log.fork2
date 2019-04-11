@@ -1,0 +1,7 @@
+write to sudout
+printf by 7241: before fork
+printf by 7241: hi from child!
+printf by 7241: bye
+printf by 7241: before fork
+printf by 7242: hi from child!
+printf by 7242: bye
